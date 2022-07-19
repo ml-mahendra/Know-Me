@@ -3,7 +3,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Mahendra Nath Reddy E 😃. I am currently an student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I love to explore and learn about new things especially in the domain of Artificial Intelligence and Robotics.
+I am Mahendra Nath Reddy E 😃. I am a Graduate student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I love to explore and learn about new things especially in the domain of Artificial Intelligence and Robotics.
 
 ## 👯 Communities
 * Chair, IEEE Student Branch REVA University - 2021
