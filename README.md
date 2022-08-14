@@ -3,24 +3,24 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Mahendra Nath Reddy E 😃. I am a Graduate student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. I love to explore and learn about new things especially in the domain of Artificial Intelligence and Robotics.
+I am Mahendra Nath Reddy E 😃. I am a Graduate student in Bachelor of Technology focused in Computer Science and engineering from REVA University, Bangalore. Currently an Post Graduate Student (MSc in Artificial Intelligence and Robotics) at University of Hertfordshire, United Kingdom. I love to explore and learn about new things especially in the domain of Artificial Intelligence and Robotics.
 
 ## 👯 Communities
 * Chair, IEEE Student Branch REVA University - 2021
 * Chair, IEEE Vechicular Technology Society SBC REVA University -2021
 * Vice-Chair, ACM Student Chapter REVA University -2021
 * Student Branch Associate, AISYWLC-2021
-* Secetary IEEE Vechicular Technology Society SBC REVA University -2020
+* Secetary, IEEE Vechicular Technology Society SBC REVA University -2020
 
 
 
 ## 🧐 &nbsp;About Me
 
-- 🏄‍ &nbsp; Community guy who loves being involved in communities and help students grow.\
-- 🌱 &nbsp; I'm on track for learning more about Machine Learning, Deep Learing, Natural Language Processing and Robotics.\
-- 💡 &nbsp; I’m looking to collaborate on Solving Problems using Machine Learning and Artificial Intelligence.\
-- ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.\
-- 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!\
+- 🏄‍ &nbsp; Community guy who loves being involved in communities and help students grow.
+- 🌱 &nbsp; I'm on track for learning more about Machine Learning, Deep Learing, Natural Language Processing and Robotics.
+- 💡 &nbsp; I’m looking to collaborate on Solving Problems using Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
+- 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
 ## ⚡ Technologies
 Talk to me about:
