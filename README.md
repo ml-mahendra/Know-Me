@@ -3,10 +3,13 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am Mahendra Nath Reddy E 😃, a recent graduate with a Bachelor's Degree in Computer Science and Engineering from REVA University, Bangalore. I am currently pursuing my postgraduate studies in MSc in Artificial Intelligence and Robotics at the University of Hertfordshire, United Kingdom. My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of neuro-science.
+I am Mahendra Nath Reddy E 😃, a recent graduate with a Bachelor's Degree in Computer Science and Engineering from REVA University, Bangalore. I am currently pursuing my postgraduate studies in MSc in Artificial Intelligence and Robotics at the University of Hertfordshire, United Kingdom. 
+
+My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of neuro-science.
 
 
 ## 👯 Communities
+
 * Chair, IEEE Student Branch REVA University - 2021
 * Chair, IEEE Vechicular Technology Society SBC REVA University -2021
 * Vice-Chair, ACM Student Chapter REVA University -2021
@@ -24,13 +27,14 @@ I am Mahendra Nath Reddy E 😃, a recent graduate with a Bachelor's Degree in C
 - 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
 ## ⚡ Technologies
+
 Talk to me about:
 - **Python Programming**
 - **R Programming**
-- **Machine Learning**.
-- **Deep Learning**.
+- **Machine Learning**
+- **Deep Learning**
 - **Natural Language Processing**
-- **Unity Simulation and C# **
+- **Unity Simulation and C#**
 
 
 <!--
@@ -40,6 +44,13 @@ Talk to me about:
 - 📫 Read my blogs: [Harsh Blog](https://medium.com/).
 - 🎯 Portfolio site: [Portfolio](l).
 -->
+
+
+## Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ml-Mahendra&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+
 
 ### 📫 &nbsp; How to reach me:
 
