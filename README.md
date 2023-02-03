@@ -47,7 +47,7 @@ Talk to me about:
 
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ml-Mahendra&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ml-mahendra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
