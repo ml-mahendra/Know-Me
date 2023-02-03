@@ -22,7 +22,7 @@ My interest lies in exploring the intersection of human biology and technology, 
 
 - 🏄‍ &nbsp; Community guy who loves being involved in communities and help students grow.
 - 🌱 &nbsp; I'm on track for learning more about Machine Learning, Deep Learing, Natural Language Processing and Robotics.
-- 💡 &nbsp; I’m looking to collaborate on Solving Problems using Machine Learning and Artificial Intelligence.
+- 💡  &nbsp; I’m looking to collaborate on Solving Problems using Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
 - 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
