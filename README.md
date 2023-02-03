@@ -46,15 +46,15 @@ Talk to me about:
 -->
 
 
-## Stats
-[![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ml-mahendra)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ml-Mahendra&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://mahendranath.in/"><img alt="Website" src="https://www.flaticon.com/free-icon/world-wide-web_1006771?term=web&page=1&position=1&origin=tag&related_id=1006771"/></a> &nbsp;
+<a href=""><img alt="Slack" src="[https://www.flaticon.com/free-icon/world-wide-web_1006771?term=web&page=1&position=1&origin=tag&related_id=1006771](https://camo.githubusercontent.com/a2e06d523388c52257c599dbc3a629e0af1564a123a662a6c20fbccfdb83d15e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536c61636b2d4530313536333f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465)"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
