@@ -4,36 +4,36 @@
 <img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
 
 
-I am Mahendra Nath Reddy E 😃, a recent graduate🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate🎓 studies in MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom. 
+I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 in MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom. 
 
-My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neuro-Biology.
+My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neuro-Biology 🧠.
 
 
 
 ## 👯 Communities
 
-* Chair, IEEE Student Branch REVA University - 2021
-* Chair, IEEE Vechicular Technology Society SBC REVA University -2021
-* Vice-Chair, ACM Student Chapter REVA University -2021
-* Student Branch Associate, AISYWLC-2021
-* Secetary, IEEE Vechicular Technology Society SBC REVA University -2020
+* Chair, IEEE Student Branch REVA University - 2021.
+* Chair, IEEE Vechicular Technology Society SBC REVA University -2021.
+* Vice-Chair, ACM Student Chapter REVA University -2021.
+* Student Branch Associate, AISYWLC-2021.
+* Secetary, IEEE Vechicular Technology Society SBC REVA University -2020.
 
 
 
 ## 🧐 &nbsp;About Me
 
-- 🏄‍ &nbsp; Community guy who loves being involved in communities and help students grow.
-- 🔭 I’m currently working on NLP Project. 
-- 💡 &nbsp; I'm on track of learning more about the intersection human brain and technology implies Computational Neuro-Science.
+- 🏄‍ Community guy who loves being involved in communities and help students grow.
+- 👨‍💻 I’m currently working on NLP Project. 
+- 💡  I'm on track of learning more about the intersection human brain and technology implies Computational Neuro-Science.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
   - 🤖 Surgical Robotics.
-- 📝 I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/).
-- 👯  &nbsp; I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
-- 🤔 I’m looking for help with Neuro-Science.
-- ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
-- 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
+- ✍️ I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/).
+- 👯 I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
+- 🤔 I’m looking for Peer-to-peer Learning for Computational Neuro-Science 🧠.
+- 📚 In my free time, I read fictional books, watch fantasy movies.
+- 💬 Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
 ## ⚡ Technologies & Tools I am Familer with
 
@@ -49,6 +49,9 @@ My interest lies in exploring the intersection of human biology and technology, 
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95dyv6ltjobuSz4xs6-WIhn_ie6Zs-WI42YrOGgdffbThoOIarraIQk2jSC7Ve7qeFKk&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg"></code>
+<code><img height="30" src="https://jupyter.org/assets/share.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wuECYdj10hz5bCw1ElO8oIQPBny9BkMZfg&usqp=CAU"></code>
 
 
 ## 💬 Talk to me about:
@@ -75,7 +78,7 @@ My interest lies in exploring the intersection of human biology and technology, 
 <img align=center src="https://github-readme-stats.vercel.app/api?username=ml-mahendra&show_icons=true&theme=radical">
 
 
-### 📫 &nbsp; How to reach me:
+### 🤝 &nbsp; How to reach me:
 
 <a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
