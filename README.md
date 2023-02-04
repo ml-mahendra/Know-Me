@@ -1,5 +1,5 @@
 # Know-Me
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞  ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
 
@@ -13,18 +13,18 @@ My interest lies in exploring the intersection of human biology and technology, 
 ## 👯 Communities
 
 * Chair, IEEE Student Branch REVA University - 2021.
-* Chair, IEEE Vechicular Technology Society SBC REVA University -2021.
+* Chair, IEEE Vehicular Technology Society SBC REVA University -2021.
 * Vice-Chair, ACM Student Chapter REVA University -2021.
 * Student Branch Associate, AISYWLC-2021.
-* Secetary, IEEE Vechicular Technology Society SBC REVA University -2020.
+* Secretary, IEEE Vehicular Technology Society SBC REVA University -2020.
 
 
 
 ## 🧐 &nbsp;About Me
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow.
+- 🏄‍ Community guy who loves being involved in communities and helps students grow.
 - 👨‍💻 I’m currently working on NLP Project. 
-- 💡  I'm on track of learning more about the intersection human brain and technology implies Computational Neuro-Science.
+- 💡  I'm on the track of learning more about the intersection human brain and technology implies Computational Neuro-Science.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
@@ -32,10 +32,10 @@ My interest lies in exploring the intersection of human biology and technology, 
 - ✍️ I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/).
 - 👯 I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
 - 🤔 I’m looking for Peer-to-peer Learning for Computational Neuro-Science 🧠.
-- 📚 In my free time, I read fictional books, watch fantasy movies.
-- 💬 Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
+- 📚 In my free time, I read fictional books, and watch fantasy movies.
+- 💬 Feel free to reach out to me for general consulting, or discussions on any of the above-mentioned topics!
 
-## ⚡ Technologies & Tools I am Familer with
+## ⚡ Technologies & Tools I am familiar with
 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
