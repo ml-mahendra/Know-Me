@@ -1,13 +1,11 @@
 # Know-Me
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞  ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.cmu.edu%2Fnews-events%2Fnews%2F2020%2F04%2F23-high-density-eeg.html&psig=AOvVaw1YZvOeKALO0Gw7VeyiJv0l&ust=1675595846497000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDV9ovf-_wCFQAAAAAdAAAAABAZ' width='200"'>
 
 I am Mahendra Nath Reddy E 😃, a recent graduate🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate🎓 studies in MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom. 
 
-My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of neuro-science.
-
-
+My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neuro-Biology.
 
 
 
@@ -30,9 +28,9 @@ My interest lies in exploring the intersection of human biology and technology, 
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
   - 🤖 Surgical Robotics.
-- 📝 I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/)
+- 📝 I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/).
 - 👯  &nbsp; I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
-- 🤔 I’m looking for help with Neuro-Science
+- 🤔 I’m looking for help with Neuro-Science.
 - ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
 - 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
@@ -40,6 +38,7 @@ My interest lies in exploring the intersection of human biology and technology, 
 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
@@ -47,8 +46,9 @@ My interest lies in exploring the intersection of human biology and technology, 
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR95dyv6ltjobuSz4xs6-WIhn_ie6Zs-WI42YrOGgdffbThoOIarraIQk2jSC7Ve7qeFKk&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
- https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png
+
 
 ## 💬 Talk to me about:
 - **Python Programming**
@@ -61,26 +61,23 @@ My interest lies in exploring the intersection of human biology and technology, 
 - **Rasberry Pi**
 - **Neuro-Biology**
 
+<p align="center">
+<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
 
-<!--
-
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/).
-- 🎯 Portfolio site: [Portfolio](l).
--->
 
 
 ## 📊 Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ml-Mahendra&theme=submarine-flowers&hide_border=true)](https://git.io/streak-stats)
-
-
+ 
+<img align=center src="https://github-readme-stats.vercel.app/api?username=ml-mahendra&show_icons=true&theme=radical">
 
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://mahendranath.in/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+  <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
