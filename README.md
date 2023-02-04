@@ -1,7 +1,8 @@
 # Know-Me
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞  ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.cmu.edu%2Fnews-events%2Fnews%2F2020%2F04%2F23-high-density-eeg.html&psig=AOvVaw1YZvOeKALO0Gw7VeyiJv0l&ust=1675595846497000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKDV9ovf-_wCFQAAAAAdAAAAABAZ' width='200"'>
+<img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
+
 
 I am Mahendra Nath Reddy E 😃, a recent graduate🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate🎓 studies in MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom. 
 
