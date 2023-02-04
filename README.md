@@ -36,7 +36,7 @@ My interest lies in exploring the intersection of human biology and technology, 
 - ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
 - 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
-## ⚡ Technologies
+## ⚡ Technologies & Tools I am Familer with
 
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -54,8 +54,11 @@ My interest lies in exploring the intersection of human biology and technology, 
 - **R Programming**
 - **Machine Learning**
 - **Deep Learning**
+- **Computer Vision**
 - **Natural Language Processing**
 - **Unity Simulation and C#**
+- **Rasberry Pi**
+- **Neuro-Biology**
 
 
 <!--
