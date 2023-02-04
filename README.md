@@ -30,13 +30,29 @@ My interest lies in exploring the intersection of human biology and technology, 
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
   - 🤖 Surgical Robotics.
-- 📝 I write technical blogs and articles, find them, <p>here <a href="https://https://mahendranath.in/blogs/">
-- 👯  &nbsp; I’m looking to collaborate on projects or research Machine Learning and Artificial Intelligence.
+- 📝 I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/)
+- 👯  &nbsp; I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
 - 🤔 I’m looking for help with Neuro-Science
 - ✍️ &nbsp; In my free time, I read fictional books, watch fantasy movies.
 - 💬 &nbsp; Feel free to reach out to me for general consulting, or discussions on any of the above mentioned topics!
 
 ## ⚡ Technologies
+
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
 
 💬 Talk to me about:
 - **Python Programming**
