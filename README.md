@@ -1,30 +1,26 @@
 # Know-Me
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
 
+I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 an MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom.
 
-I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 in MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom. 
-
-My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neuro-Biology 🧠.
-
-
+My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neurobiology 🧠.
 
 ## 👯 Communities
 
-* Chair, IEEE Student Branch REVA University - 2021.
-* Chair, IEEE Vehicular Technology Society SBC REVA University -2021.
-* Vice-Chair, ACM Student Chapter REVA University -2021.
-* Student Branch Associate, AISYWLC-2021.
-* Secretary, IEEE Vehicular Technology Society SBC REVA University -2020.
-
-
+- Chair, IEEE Student Branch REVA University - 2021.
+- Chair, IEEE Vehicular Technology Society SBC REVA University -2021.
+- Vice-Chair, ACM Student Chapter REVA University -2021.
+- Student Branch Associate, AISYWLC-2021.
+- Secretary, IEEE Vehicular Technology Society SBC REVA University -2020.
 
 ## 🧐 &nbsp;About Me
 
 - 🏄‍ Community guy who loves being involved in communities and helps students grow.
-- 👨‍💻 I’m currently working on NLP Project. 
-- 💡  I'm on the track of learning more about the intersection human brain and technology implies Computational Neuro-Science.
+- 👨‍💻 I’m currently working on the NLP Project.
+- 💡  I'm on the track of learning more about the intersection human brain and technology implies Computational Neuroscience.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
@@ -53,8 +49,8 @@ My interest lies in exploring the intersection of human biology and technology, 
 <code><img height="30" src="https://jupyter.org/assets/share.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wuECYdj10hz5bCw1ElO8oIQPBny9BkMZfg&usqp=CAU"></code>
 
-
 ## 💬 Talk to me about:
+
 - **Python Programming**
 - **R Programming**
 - **Machine Learning**
@@ -69,19 +65,14 @@ My interest lies in exploring the intersection of human biology and technology, 
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 </p>
 
-
-
 ## 📊 Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ml-Mahendra&theme=submarine-flowers&hide_border=true)](https://git.io/streak-stats)
  
 <img align=center src="https://github-readme-stats.vercel.app/api?username=ml-mahendra&show_icons=true&theme=radical">
 
-
 ### 🤝 &nbsp; How to reach me:
 
 <a href="https://mahendranath.in/contact/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/mahendranath-reddy-e/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
   <a href="mailto:ml.mahendranath@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
-
