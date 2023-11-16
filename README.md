@@ -48,6 +48,8 @@ My interest lies in exploring the intersection of human biology and technology, 
 <code><img height="30" src="https://banner2.cleanpng.com/20180803/uoa/kisspng-eclipse-foundation-scalable-vector-graphics-clip-a-go-to-image-page-5b63ff39421380.6609515515332800572707.jpg"></code>
 <code><img height="30" src="https://jupyter.org/assets/share.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wuECYdj10hz5bCw1ElO8oIQPBny9BkMZfg&usqp=CAU"></code>
+<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fccl.northwestern.edu%2Fnetlogo%2F&psig=AOvVaw2rOa88bGkeZ7wDAAPnZOPh&ust=1700240592091000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCID_0ff_yIIDFQAAAAAdAAAAABAD"></code>
+
 
 ## 💬 Talk to me about:
 
@@ -58,7 +60,8 @@ My interest lies in exploring the intersection of human biology and technology, 
 - **Computer Vision**
 - **Natural Language Processing**
 - **Unity Simulation and C#**
-- **Rasberry Pi**
+- **Robotic Operating System**
+- **Hypothesis Testing**
 - **Neuro-Biology**
 
 <p align="center">
