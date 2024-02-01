@@ -4,12 +4,13 @@
 
 <img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
 
-I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 an MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom.
+I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom.
 
 My interest lies in exploring the intersection of human biology and technology, with a focus on using Artificial Intelligence and Robotics to mitigate the risks associated with human diseases, particularly in the field of Computational Neurobiology 🧠.
 
 ## 👯 Communities
 
+- Student Ambassador, University of Hertfordshire - 2023.
 - Chair, IEEE Student Branch REVA University - 2021.
 - Chair, IEEE Vehicular Technology Society SBC REVA University -2021.
 - Vice-Chair, ACM Student Chapter REVA University -2021.
@@ -19,13 +20,13 @@ My interest lies in exploring the intersection of human biology and technology, 
 ## 🧐 &nbsp;About Me
 
 - 🏄‍ Community guy who loves being involved in communities and helps students grow.
-- 👨‍💻 I’m currently working on the NLP Project.
+- 👨‍💻 I’m currently working on Plant Disease Classification and exploring ML algorithms in Captcha's.
 - 💡  I'm on the track of learning more about the intersection human brain and technology implies Computational Neuroscience.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
-  - 🤖 Surgical Robotics.
-- ✍️ I write technical blogs and articles, find them [here](https://mahendranath.in/blogs/).
+  - 🤖 Robotics.
+- ✍️ I write technical blogs and articles, find them [here](https://medium.com/me/stories/public).
 - 👯 I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
 - 🤔 I’m looking for Peer-to-peer Learning for Computational Neuro-Science 🧠.
 - 📚 In my free time, I read fictional books, and watch fantasy movies.
@@ -53,16 +54,7 @@ My interest lies in exploring the intersection of human biology and technology, 
 
 ## 💬 Talk to me about:
 
-- **Python Programming**
-- **R Programming**
-- **Machine Learning**
-- **Deep Learning**
-- **Computer Vision**
-- **Natural Language Processing**
-- **Unity Simulation and C#**
-- **Robotic Operating System**
-- **Hypothesis Testing**
-- **Neuro-Biology**
+**Python Programming** , **R Programming**, **Machine Learning**, **Deep Learning**, **Computer Vision**, **Natural Language Processing**, **Computational NeuroScience**, **Celluar Automata and Artificial Life**, **Agent-Based modeling**
 
 <p align="center">
 <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
