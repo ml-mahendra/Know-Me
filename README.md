@@ -2,7 +2,7 @@
 
 ## Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'>
+<!-- <img align='right' src='https://media.giphy.com/media/1gOa8cAhm4cNX14xRu/giphy.gif'> -->
 
 I am Mahendra Nath Reddy E 😃, a recent graduate 👨‍🎓 with a Bachelor's Degree in Computer Science and Engineering from [REVA University](https://www.reva.edu.in), Bangalore. I am currently pursuing my postgraduate studies 🧑‍🎓 MSc in Artificial Intelligence and Robotics at the [University of Hertfordshire](https://www.herts.ac.uk), United Kingdom.
 
