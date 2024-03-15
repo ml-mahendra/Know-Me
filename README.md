@@ -19,18 +19,16 @@ My interest lies in exploring the intersection of human biology and technology, 
 
 ## 🧐 &nbsp;About Me
 
-- 🏄‍ Community guy who loves being involved in communities and helps students grow.
 - 👨‍💻 I’m currently working on Plant Disease Classification and exploring ML algorithms in Captcha's.
 - 💡  I'm on the track of learning more about the intersection human brain and technology implies Computational Neuroscience.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Deep Learning.
   - 🖼 Computer Vision & Natural Language Processing.
   - 🤖 Robotics.
-- ✍️ I write technical blogs and articles, find them [here](https://medium.com/me/stories/public).
+- ✍️ I write technical blogs, find them [here](https://medium.com/@ml.mahendranath).
 - 👯 I’m looking to collaborate on projects or research in Machine Learning and Artificial Intelligence.
-- 🤔 I’m looking for Peer-to-peer Learning for Computational Neuro-Science 🧠.
-- 📚 In my free time, I read fictional books, and watch fantasy movies.
-- 💬 Feel free to reach out to me for general consulting, or discussions on any of the above-mentioned topics!
+- 🤔 I’m looking for Peer-to-Peer Learning for Computational Neuro-Science 🧠.
+- 💬 Feel free to reach out to me for general discussions or on any of the above-mentioned topics!
 
 ## ⚡ Technologies & Tools I am familiar with
 
